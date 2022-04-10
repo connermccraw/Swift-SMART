@@ -8,7 +8,7 @@ import PackageDescription
 let package = Package(
     name: "SMART",
 	platforms: [
-		.macOS(.v10_13), .iOS(.v11)
+		.macOS(.v10_13), .iOS(.v12)
 	],
     products: [
         .library(
